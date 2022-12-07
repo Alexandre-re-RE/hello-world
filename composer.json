@@ -2,7 +2,7 @@
     "name": "alexandre-re/hello-world",
     "description": "Hello package",
     "require": {
-        "php": ">=8.1"
+        "php": ">=7.4"
     },
     "license": "MIT",
     "autoload": {
@@ -15,6 +15,5 @@
             "name": "Alexandre",
             "email": "webmaster@alexandre.re"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
